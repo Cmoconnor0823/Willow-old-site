@@ -1,0 +1,9 @@
+2019-10-28 03:36:05 u39866512 0EXTew-1hqTdK22u7-00dF8w |< REMOTE=192.227.180.0 SCRIPT=/wsb3986651201/index.php -- /usr/sbin/sendmail -t -i
+2019-10-28 03:36:05 u39866512 0EXTew-1hqTdK22u7-00dF8w <= S=CHAD.MASON270@gmail.com SZ=1556 D=0 SID=155104875
+2019-10-28 03:36:05 u39866512 0EXTew-1hqTdK22u7-00dF8w => bluewillow@bluewillowtucson.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0M6DOO-1i4Xyp27ic-00y6H0
+2019-10-28 12:07:17 u39866512 0EVxEK-1htB3205Bt-015MxH |< REMOTE=24.255.119.0 SCRIPT=/wsb3986651201/wp-admin/user-new.php -- /usr/sbin/sendmail -t -i
+2019-10-28 12:07:17 u39866512 0EVxEK-1htB3205Bt-015MxH <= S=wordpress@bluewillowtucson.com SZ=909 D=0 SID=155104875
+2019-10-28 12:07:17 u39866512 0EVxEK-1htB3205Bt-015MxH => panchesco@panchesco.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=1MPGuf-1idD7Q0CD7-00PglT
+2019-10-28 12:07:17 u39866512 0EdXvk-1hlN0m14Ij-00dlQK |< REMOTE=24.255.119.0 SCRIPT=/wsb3986651201/wp-admin/user-new.php -- /usr/sbin/sendmail -t -i
+2019-10-28 12:07:17 u39866512 0EdXvk-1hlN0m14Ij-00dlQK <= S=wordpress@bluewillowtucson.com SZ=1035 D=0 SID=155104875
+2019-10-28 12:07:17 u39866512 0EdXvk-1hlN0m14Ij-00dlQK => cmoconnor0823@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=1M2fop-1iPPKc18nP-004Bw0

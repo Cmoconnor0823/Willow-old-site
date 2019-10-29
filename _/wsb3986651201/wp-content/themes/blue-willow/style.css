@@ -1,0 +1,632 @@
+/*
+Theme Name: Blue Willow
+Theme URI: http://bluewillowtucson.com/
+Description: 2011 Site Relaunch
+Author: Richard Whitmer
+Version: 1
+*/
+
+
+/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-------------------------------------------------------------- */
+html, body, div, span, applet, object, iframe, 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, 
+a, abbr, acronym, address, big, cite, code, 
+del, dfn, em, font, img, ins, kbd, q, s, samp, 
+small, strike, strong, sub, sup, tt, var, 
+dl, dt, dd, ol, ul, li, 
+fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td { 
+margin: 0; 
+padding: 0; 
+border: 0; 
+outline: 0; 
+font-weight: inherit; 
+font-style: inherit; 
+font-size: 100%; 
+font-family: inherit; 
+vertical-align: baseline; 
+/*background-image: transparent;*/ /* edit! has been removed again */ 
+} 
+/* remember to define focus styles! */ 
+:focus { 
+outline: 0; 
+} 
+body { 
+line-height: 1; 
+color: black; 
+background: white; 
+} 
+ol, ul { 
+list-style: none; 
+} 
+/* tables still need 'cellspacing="0"' in the markup */ 
+table { 
+border-collapse: collapse; 
+border-spacing: 0; 
+} 
+caption, th, td { 
+text-align: left; 
+font-weight: normal; 
+} 
+blockquote:before, blockquote:after, 
+q:before, q:after { 
+content: ""; 
+} 
+blockquote, q { 
+quotes: "" ""; 
+}
+
+
+    html
+    {
+        height: 100%;
+    }
+
+    body
+    {
+        height: 100%;
+	background: #EBF1F5 url('images/willow-tree.png') no-repeat center 112px ;
+        margin: auto;
+    }
+    
+    
+                    
+		    
+		    body
+                    {
+                        background:#ffffff  url('images/willow-tree.png') no-repeat center 162px ;
+			/*#EBF1F5*/
+                        margin: auto;
+                        font-family: Georgia, Serif;
+                        font-size: 14px;
+                        letter-spacing: .01em;
+                        color: #333;
+                    }
+		    
+
+                    
+                    
+		    iframe.google
+                    {
+                       border: solid 1px #9CC5D6;
+		       margin: 0 10px 10px 10px;
+		       width: 938px;
+		       height: 300px;
+                    }
+                    
+                    h2
+                    {
+                        font-size: 1.8em;
+                        color: #053356;
+                        margin-bottom: 16px;
+                        letter-spacing: .02em;
+                    }
+                    
+                    h3
+                    {
+                        
+			font-size: 1.4em;
+			margin-bottom: .6em;
+                        color: #003366;
+                    }
+		    
+		    h4
+		    {
+			font-size: 1.2em;
+			color: #003366;
+			margin-bottom: .6em;
+		    }
+                    
+                    p
+                    {
+                        margin-bottom: 16px;
+                        line-height: 22px;
+                        
+                    }
+		    
+		    em
+		    {
+			font-style: italic;
+		    }
+		    
+		    .anchor-menu
+		    {
+			margin-left: 4px;
+		    }
+                    
+                    #wrapper
+                    {
+                        background: transparent url('images/wrapper-bg.png') 0 0 repeat-x;
+                        height: 100%;
+                    }
+		    
+		    a
+		    {
+			color: #369;
+		    }
+		    
+		    a:hover
+		    {
+			color: #053356;
+		    }
+		    
+		    .page-copy ul
+		    {
+			list-style: disc;
+			margin-bottom: 12px;
+			margin-left: 12px;
+		    }
+		    
+		    .page-copy ul li
+		    {
+			margin: 0 0 6px 12px;
+			line-height: 1.2em;
+		    }
+
+                    
+                    #wrapper #container
+                    {
+                        width: 960px;
+                        margin-left: auto;
+                        margin-right: auto;
+			min-height: 100%;
+                        
+                    }
+
+
+                    #wrapper #container #header .menu
+                    {
+
+                        color: #EBF1F5;
+                        font-size: 1.8em;
+                    }
+                    
+                    #wrapper #container #header  .menu ul
+                    {
+                        height: 60px;
+			float:right;
+                    }
+                    
+                                        
+                    #wrapper #container #header .menu ul li
+                    {
+                    float: left;
+                    margin-right: 22px;
+                    margin-top:18px;
+                    letter-spacing: 1px;
+                    height: 42px;
+                    }
+                    
+                    #wrapper #container #header .menu ul li a
+                    {
+                        color: #EBF1F5;
+                        text-decoration: none;
+                        display: block;
+                        width: 100%;
+                        height: 100%;
+                        text-shadow:  0 2px 2px #333;
+                        
+                    }
+                    
+                    #wrapper #container #header .menu ul li a:hover,
+                    #wrapper #container #header .menu ul li.current_page_item a,
+		    #wrapper #container #header .menu ul li.current_page_ancestor a
+                    {
+                        background: transparent url('images/header-nav-arrow.png') center bottom no-repeat;
+                    }
+                    
+
+                    
+                    #content
+                    {
+                        margin-top: 18px;
+                        padding-top: 10px;
+			padding-bottom: 36px;
+                        width: 960px;
+                        background-color: #fff;
+                        border-radius: 5px;
+                        border: solid 1px #78B6D5;
+                        -webkit-border-radius: 5px;
+                        -moz-border-radius: 5px;
+                        box-shadow: 0px 0px 10px #78B6D5;
+                        -webkit-box-shadow: 0px 0px 10px #78B6D5;
+                        -moz-box-shadow: 0px 0px 10px #78B6D5;
+			
+			
+
+                    }
+                    
+		    #header .col-620,
+                    #content .col-620
+                    {
+                      width: 620px;
+                      float: left;
+                      margin: 0 10px 10px 10px;
+                      display: block;
+                      position: relative;
+                    }
+                    
+		    #header .col-300,
+                    #content .col-300 
+                    {
+                        
+                        float: left;
+                        width: 300px;
+                        margin: 0 10px 10px 10px; 
+                    }
+		    
+		    #header .col-300
+		    {
+			
+			margin: 14px 10px 0 0;
+		    }
+		    
+		    #header .col-620
+		    {
+			
+			margin: 14px 10px 0 20px;
+		    }
+		    
+                    
+                    #logo img
+                    {
+                        
+			border: none;
+                    }
+		    
+		    #hours
+		    {
+			margin: 0;
+			text-align: right;
+			
+		    }
+		    
+
+                    
+                    .col-940
+                    {
+                        width: 940px;
+                        margin: 0 10px 10px 10px;
+                        clear: both;
+                    }
+                    
+                    .alpha
+                    {
+                        margin-left: 0;
+                    }
+                    
+                    .omega
+                    {
+                        margin-right: 0;
+                    }
+                    
+                    #wrapper #container #content
+                    {
+                        height: 100%;
+                    }
+                    
+                    .home
+                    {
+                        height: auto;
+                    }
+                    
+                    #content #sidebar-nav 
+                    {
+                        height: 240px;
+                        min-height: 240px;
+                        background: transparent url('images/subnav-bg.png') no-repeat;
+			list-style: none;
+                    }
+                    
+                    
+                    #sidebar-nav ul li
+                    {
+                        width: 100%;
+                        font-size: 1.2em;
+                        line-height: 1.8em;
+                        letter-spacing: 1px;
+                        color: #053356;
+                        border: solid 1px #EBF1F5;
+                        border-width: 0 0 1px 0;
+			border: none;
+			
+                    }
+                    
+                    #sidebar-nav ul li a span
+                    {
+                        margin: 10px;
+                    }
+                    
+                    #sidebar-nav ul li a
+                    {
+                        display: block;
+                        width: 100%;
+                        color: #053356;
+                        text-decoration: none;
+
+
+                    }
+                    
+                    #sidebar-nav ul li a:hover,
+                    #sidebar-nav ul li.current_page_item a
+                    {
+
+                        background-color: #053356;
+                        text-decoration: none;
+                        color: #fff;
+                        
+                    }
+		    
+		    
+.home #lrg-image
+{
+    width:614px;
+    height:345px;
+    overflow:hidden;
+    border: solid 1px #9CC5D6
+}
+
+.home #sml-image
+{
+	width:298px;
+	height:345px;
+	overflow:hidden;
+	border: solid 1px #9CC5D6;
+}
+
+.single,
+.double,
+.triple
+{
+    height: 300px;
+    float: left;
+    margin: 0 9px 9px 10px;
+}
+
+.single
+{
+    width:298px;
+    border: solid 1px #9CC5D6;
+    overflow:hidden;
+    
+    
+}
+
+.double
+{
+    width: 618px;
+    border: solid 1px #9CC5D6;
+    overflow:hidden;
+}
+
+.triple
+{
+    width: 938px;
+    border: solid 1px #9CC5D6;
+    overflow:hidden;
+    margin: 0 0 10px 0;;
+}
+
+.tiles
+{
+    border: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+
+.tiles img
+{
+        display: block;
+	border: solid 1px #9CC5D6;
+	float: left;
+	margin-bottom: 17px;
+	padding:0;
+	width: 140px;
+	height: 140px;
+
+}
+
+.tiles img.omega
+{
+    
+    float: right;
+}
+
+.bottom img
+{
+    margin-bottom: 0;
+}
+
+#img-row
+{
+    clear: both;
+    display: block;
+    width: 960px;
+    margin:0;
+    padding:0;
+    border:none;
+}
+
+
+              
+
+                    
+
+                    
+                    
+                    
+                    /* Clear Floated Elements
+----------------------------------------------------------------------------------------------------*/
+
+/* http://sonspring.com/journal/clearing-floats */
+
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+/* http://perishablepress.com/press/2008/02/05/lessons-learned-concerning-the-clearfix-css-hack */
+
+.clearfix:after {
+	clear: both;
+	content: ' ';
+	display: block;
+	font-size: 0;
+	line-height: 0;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+.clearfix {
+	display: inline-block;
+}
+
+* html .clearfix {
+	height: 1%;
+}
+
+.clearfix {
+	display: block;
+}
+
+      
+.page-copy table
+{
+    border: none;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.page-template-dinner-php .page-copy table tbody td,
+.page-template-dinner-php .page-copy table thead th,
+.page-template-breakfast-php .page-copy table tbody td,
+.page-template-breakfast-php .page-copy table thead th,
+.page-template-lunch-php .page-copy table tbody td,
+.page-template-lunch-php .page-copy table thead th,
+.page-template-coffee-dessert-php .page-copy table tbody td,
+.page-template-coffee-dessert-php .page-copy table thead th,
+.page-template-beer-wine-php .page-copy table tbody td,
+.page-template-beer-wine-php .page-copy table thead th
+{
+    padding: 8px 8px 8px 6px;
+    line-height: 18px;
+    font-size: .9em;
+    vertical-align: bottom;
+}
+
+.page-copy table tbody td strong
+{
+    font-weight: 600;
+
+}
+
+.page-copy table tfoot td
+{
+    padding: 12px 8px 14px 8px;
+    font-size: .9em;
+}
+
+
+
+.page-copy table tbody tr.even 
+{
+     border-width: 1px 0 1px 0;
+     border-color: #ccc;
+   
+}
+
+.page-template-dinner-php .page-copy  tr.even,
+.page-template-dinner-php .page-copy ul li.even,
+.page-template-breakfast-php .page-copy  tr.even,
+.page-template-breakfast-php .page-copy ul li.even,
+.page-template-lunch-php .page-copy  tr.even,
+.page-template-lunch-php .page-copy ul li.even,
+.page-template-beer-wine-php .page-copy tr.even,
+.page-template-beer-wine-php .page-copy ul li.even,
+.page-template-gifts-php .page-copy ul li.even,
+.page-template-coffee-dessert-php .page-copy tr.even,
+.page-template-coffee-dessert-php .page-copy ul li.even
+{
+    background-color: #EBF1F5;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+th
+{
+    font-weight: 600;
+}
+
+
+
+.page-template-dinner-php tbody tr td.cell-0,
+.page-template-breakfast-php tbody tr td.cell-0,
+.page-template-lunch-php tbody tr td.cell-0,
+.page-template-coffee-dessert-php tr tbody td.cell-0,
+.page-template-beer-wine-php tr tbody td.cell-0
+{
+    width: 510px;
+    text-align: left;
+}
+
+.page-template-dinner-php td.cell-1,
+.page-template-dinner-php td.cell-2,
+.page-template-breakfast-php td.cell-1,
+.page-template-breakfast-php td.cell-2,
+.page-template-lunch-php td.cell-1,
+.page-template-lunch-php td.cell-2,
+.page-template-coffee-dessert-php td.cell-1,
+.page-template-coffee-dessert-php td.cell-2
+{
+    text-align:right;
+}
+
+.page-template-beer-wine-php table tbody td.cell-0
+{
+    width: 490px;
+}
+
+.page-template-beer-wine-php table tbody td.cell-1,
+.page-template-beer-wine-php table tbody td.cell-2,
+.page-template-beer-wine-php table thead th.cell-1,
+.page-template-beer-wine-php table thead th.cell-2
+{
+    text-align: center;
+}
+
+
+.page-template-gifts-php ul
+{
+    margin-left: 0;
+    
+}
+
+.page-template-gifts-php ul li
+{
+    list-style: none;
+    margin-left: 0;
+}
+
+.page-copy ul li
+{
+    padding: 0 6px 0 6px;
+}
+
+.page-template-bakery-php .page-copy ul
+{
+    margin-bottom: 18px;
+}
+
+table
+{
+    margin:0;
+    padding:0;
+}

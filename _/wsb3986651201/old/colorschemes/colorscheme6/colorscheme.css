@@ -1,0 +1,173 @@
+/*** Normalized ***/
+
+/*----------------------------------------------------------------------------
+	colorscheme.css for colorscheme 1
+
+	this css-file contains all definitions, that depend on the colorscheme.
+
+	(c) Schlund + Partner AG
+----------------------------------------------------------------------------*/
+
+/*-- main container --------------------------------------------------------*/
+
+#main_nav_container {
+    background: 0 0 repeat-y;
+    background-image: url(images/static/main_nav_container.gif);
+}
+
+#container {
+    background: transparent   0 0;
+    background-image: url(images/static/container_bg.gif);
+}
+
+#main_container {
+    background: transparent 0 0 no-repeat;
+    background-image: url(images/static/main_container.gif);
+}
+
+/*--- footer ---------------------------------------------------------------*/
+
+#footer {
+    background: transparent 0 0 no-repeat;
+    background-image: url(images/static/footerbg.gif);
+}
+
+/*----------------------------------------------------------------------------
+  default-styles for html-elements
+----------------------------------------------------------------------------*/
+
+/*--- body -----------------------------------------------------------------*/
+
+body#main_body {
+    color: #000000;
+    background-color: #12212d;
+}
+
+/*--- tables ---------------------------------------------------------------*/
+
+.content table {
+    border-color: #325d82;
+}
+
+.content th {
+    color: #fff;
+    background-color: #325d82;
+    padding: 3px 2px 3px 5px;
+}
+
+.content tr.odd {
+    background-color: #fff;
+    padding: 3px 2px 3px 2px;
+}
+
+.content tr {
+    padding: 3px 2px 3px 2px;
+}
+
+.content tr.even {
+    background-color: #f2efef;
+    padding: 3px 2px 3px 2px;
+}
+
+/*--- forms ----------------------------------------------------------------*/
+
+.content fieldset {
+    border-color: #3f76a5;
+}
+
+.content #legend {
+    color: #3f76a5;
+}
+
+.content label {
+    color: #3f76a5;
+}
+
+.content input {
+    border-color: #12212d;
+}
+
+.content textarea {
+    border-color: #12212d;
+    color: black;
+}
+
+/*--------------------------------------------------------------------------*/
+
+#key_visual {
+    background-image: url(images/dynamic/key_visual1.jpg);
+}
+
+#slogan {
+    color: #1b7100;
+}
+
+#footer_text {
+    color: #706560;
+}
+
+a.main_nav_active_item {
+    color: #fff;
+    background-image: url(../../images/dynamic/buttonset6/n1hover.gif);
+    background-position: top right;
+}
+
+a.main_nav_item {
+    color: #fff;
+    background-image: url(../../images/dynamic/buttonset6/n1.gif);
+    background-position: top right;
+}
+
+a.main_nav_item:hover {
+    color: #fff;
+    background-image: url(../../images/dynamic/buttonset6/n1hover.gif);
+    background-position: top right;
+}
+
+a.sub_nav_active_item {
+    color: #fff;
+    background-image: url(../../images/dynamic/buttonset6/subnav1hover.gif);
+}
+
+a.sub_nav_item {
+    color: #fff;
+    background-image: url(../../images/dynamic/buttonset6/subnav1.gif);
+}
+
+a.sub_nav_item:hover {
+    color: #fff;
+    background-image: url(../../images/dynamic/buttonset6/subnav1hover.gif);
+}
+
+.content a:active {
+    color: #ff0000;
+}
+
+.content a:hover {
+    color: #ff0000;
+}
+
+.content a:visited {
+    color: #ff0000;
+}
+
+.content a:link {
+    color: #ff0000;
+}
+
+.content h1 {
+    color: #000;
+}
+
+.content h2 {
+    color: #000;
+}
+
+.content h3 {
+    color: #000;
+}
+
+.content, .content p, .content table, .content select, .content input, .content textarea {
+    color: #000;
+}
+

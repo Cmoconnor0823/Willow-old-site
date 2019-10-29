@@ -1,0 +1,544 @@
+Oct 29 15:26:28 10.71.54.0 u39866512-Caitlin Connection from 10.71.54.0 port 15642 on 74.208.57.137 port 22
+Oct 29 15:26:36 10.71.54.0 u39866512-Caitlin Accepted password for u39866512-Caitlin from 10.71.54.0 port 15642 ssh2
+Oct 29 15:26:36 10.71.54.0 u39866512-Caitlin Starting session: subsystem 'sftp' for u39866512-Caitlin from 10.71.54.0 port 15642
+Oct 29 15:26:36 10.71.54.0 u39866512-Caitlin session opened for local user u39866512-Caitlin from [10.71.54.0]
+Oct 29 15:28:35 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/CHANGELOG.md"
+Oct 29 15:28:35 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f4348414e47454c4f472e6d64|]
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/CONTRIBUTING.md"
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f434f4e545249425554494e472e6d64|]
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/core-integration.php"
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f636f72652d696e746567726174696f6e2e706870|]
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/extras.php"
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6578747261732e706870|]
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/license.txt"
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c6963656e73652e747874|]
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/plugin.php"
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f706c7567696e2e706870|]
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/README.md"
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f524541444d452e6d64|]
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/readme.txt"
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f726561646d652e747874|]
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/wp-api.js"
+Oct 29 15:28:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f77702d6170692e6a73|]
+Oct 29 15:28:37 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/wp-api.min.js"
+Oct 29 15:28:37 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f77702d6170692e6d696e2e6a73|]
+Oct 29 15:28:37 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/wp-api.min.map"
+Oct 29 15:28:37 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f77702d6170692e6d696e2e6d6170|]
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-attachments-controller.php"
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d6174746163686d656e74732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-comments-controller.php"
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d636f6d6d656e74732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-controller.php"
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-posts-controller.php"
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d706f7374732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-post-statuses-controller.php"
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d706f73742d73746174757365732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-post-types-controller.php"
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d706f73742d74797065732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-revisions-controller.php"
+Oct 29 15:28:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d7265766973696f6e732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-settings-controller.php"
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d73657474696e67732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-taxonomies-controller.php"
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d7461786f6e6f6d6965732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-terms-controller.php"
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d7465726d732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints/class-wp-rest-users-controller.php"
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e74732f636c6173732d77702d726573742d75736572732d636f6e74726f6c6c65722e706870|]
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin rmdir name "/wsb3986651201/wp-content/plugins/rest-api/lib/endpoints"
+Oct 29 15:28:39 10.71.54.0 u39866512-Caitlin [10.71.54.0|rmdir|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f656e64706f696e7473|]
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/fields/class-wp-rest-comment-meta-fields.php"
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f6669656c64732f636c6173732d77702d726573742d636f6d6d656e742d6d6574612d6669656c64732e706870|]
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/fields/class-wp-rest-meta-fields.php"
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f6669656c64732f636c6173732d77702d726573742d6d6574612d6669656c64732e706870|]
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/fields/class-wp-rest-post-meta-fields.php"
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f6669656c64732f636c6173732d77702d726573742d706f73742d6d6574612d6669656c64732e706870|]
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/fields/class-wp-rest-term-meta-fields.php"
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f6669656c64732f636c6173732d77702d726573742d7465726d2d6d6574612d6669656c64732e706870|]
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin remove name "/wsb3986651201/wp-content/plugins/rest-api/lib/fields/class-wp-rest-user-meta-fields.php"
+Oct 29 15:28:40 10.71.54.0 u39866512-Caitlin [10.71.54.0|rm|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f6669656c64732f636c6173732d77702d726573742d757365722d6d6574612d6669656c64732e706870|]
+Oct 29 15:28:41 10.71.54.0 u39866512-Caitlin rmdir name "/wsb3986651201/wp-content/plugins/rest-api/lib/fields"
+Oct 29 15:28:41 10.71.54.0 u39866512-Caitlin [10.71.54.0|rmdir|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c69622f6669656c6473|]
+Oct 29 15:28:41 10.71.54.0 u39866512-Caitlin rmdir name "/wsb3986651201/wp-content/plugins/rest-api/lib"
+Oct 29 15:28:41 10.71.54.0 u39866512-Caitlin [10.71.54.0|rmdir|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d6170692f6c6962|]
+Oct 29 15:28:41 10.71.54.0 u39866512-Caitlin rmdir name "/wsb3986651201/wp-content/plugins/rest-api"
+Oct 29 15:28:41 10.71.54.0 u39866512-Caitlin [10.71.54.0|rmdir|0|0|0|0|0|2f777362333938363635313230312f77702d636f6e74656e742f706c7567696e732f726573742d617069|]
+Oct 29 15:36:05 10.71.54.0 u39866512-Caitlin Connection from 10.71.54.0 port 14330 on 74.208.57.137 port 22
+Oct 29 15:36:06 10.71.54.0 u39866512-Caitlin Accepted password for u39866512-Caitlin from 10.71.54.0 port 14330 ssh2
+Oct 29 15:36:05 10.71.54.0 u39866512-Caitlin Connection from 10.71.54.0 port 14328 on 74.208.57.137 port 22
+Oct 29 15:36:06 10.71.54.0 u39866512-Caitlin Accepted password for u39866512-Caitlin from 10.71.54.0 port 14328 ssh2
+Oct 29 15:36:06 10.71.54.0 u39866512-Caitlin Starting session: subsystem 'sftp' for u39866512-Caitlin from 10.71.54.0 port 14330
+Oct 29 15:36:06 10.71.54.0 u39866512-Caitlin Starting session: subsystem 'sftp' for u39866512-Caitlin from 10.71.54.0 port 14328
+Oct 29 15:36:06 10.71.54.0 u39866512-Caitlin session opened for local user u39866512-Caitlin from [10.71.54.0]
+Oct 29 15:36:06 10.71.54.0 u39866512-Caitlin session opened for local user u39866512-Caitlin from [10.71.54.0]
+Oct 29 15:36:06 10.71.54.0 u39866512-Caitlin open "/postinfo.html" flags READ mode 0666
+Oct 29 15:36:06 10.71.54.0 u39866512-Caitlin open "/_vti_inf.html" flags READ mode 0666
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin close "/postinfo.html" bytes read 2453 written 0
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|2453|0|0|0|2f706f7374696e666f2e68746d6c|]
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin close "/_vti_inf.html" bytes read 1754 written 0
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|1754|0|0|0|2f5f7674695f696e662e68746d6c|]
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin open "/.htaccess" flags READ mode 0666
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin open "/_private/.htaccess" flags READ mode 0666
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin close "/.htaccess" bytes read 373 written 0
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|373|0|0|0|2f2e6874616363657373|]
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin close "/_private/.htaccess" bytes read 375 written 0
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|375|0|0|0|2f5f707269766174652f2e6874616363657373|]
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin open "/_vti_bin/.htaccess" flags READ mode 0666
+Oct 29 15:36:07 10.71.54.0 u39866512-Caitlin open "/_vti_bin/_vti_adm/.htaccess" flags READ mode 0666
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin close "/_vti_bin/.htaccess" bytes read 323 written 0
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|323|0|0|0|2f5f7674695f62696e2f2e6874616363657373|]
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin close "/_vti_bin/_vti_adm/.htaccess" bytes read 367 written 0
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|367|0|0|0|2f5f7674695f62696e2f5f7674695f61646d2f2e6874616363657373|]
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin open "/_vti_bin/_vti_aut/.htaccess" flags READ mode 0666
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin open "/_vti_cnf/shop.html" flags READ mode 0666
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin close "/_vti_bin/_vti_aut/.htaccess" bytes read 375 written 0
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|375|0|0|0|2f5f7674695f62696e2f5f7674695f6175742f2e6874616363657373|]
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin close "/_vti_cnf/shop.html" bytes read 1675 written 0
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|1675|0|0|0|2f5f7674695f636e662f73686f702e68746d6c|]
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin open "/_vti_cnf/policy.html" flags READ mode 0666
+Oct 29 15:36:08 10.71.54.0 u39866512-Caitlin open "/_vti_cnf/menu.html" flags READ mode 0666
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin close "/_vti_cnf/policy.html" bytes read 1484 written 0
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|1484|0|0|0|2f5f7674695f636e662f706f6c6963792e68746d6c|]
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin close "/_vti_cnf/menu.html" bytes read 4249 written 0
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|4249|0|0|0|2f5f7674695f636e662f6d656e752e68746d6c|]
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin open "/_vti_cnf/location.html" flags READ mode 0666
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin open "/_vti_cnf/legend.html" flags READ mode 0666
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin close "/_vti_cnf/legend.html" bytes read 1492 written 0
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|1492|0|0|0|2f5f7674695f636e662f6c6567656e642e68746d6c|]
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin close "/_vti_cnf/location.html" bytes read 1475 written 0
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|1475|0|0|0|2f5f7674695f636e662f6c6f636174696f6e2e68746d6c|]
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin open "/_vti_cnf/index_.html" flags READ mode 0666
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin open "/_vti_cnf/index.html" flags READ mode 0666
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin close "/_vti_cnf/index_.html" bytes read 1023 written 0
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|1023|0|0|0|2f5f7674695f636e662f696e6465785f2e68746d6c|]
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin close "/_vti_cnf/index.html" bytes read 1638 written 0
+Oct 29 15:36:09 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|1638|0|0|0|2f5f7674695f636e662f696e6465782e68746d6c|]
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin open "/_vti_cnf/.htaccess" flags READ mode 0666
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin open "/_vti_log/.htaccess" flags READ mode 0666
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin close "/_vti_cnf/.htaccess" bytes read 260 written 0
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|260|0|0|0|2f5f7674695f636e662f2e6874616363657373|]
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin close "/_vti_log/.htaccess" bytes read 260 written 0
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|260|0|0|0|2f5f7674695f6c6f672f2e6874616363657373|]
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/writeto.cnf" flags READ mode 0666
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/svcacl.cnf" flags READ mode 0666
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/writeto.cnf" bytes read 24 written 0
+Oct 29 15:36:10 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|24|0|0|0|2f5f7674695f7076742f7772697465746f2e636e66|]
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/svcacl.cnf" bytes read 114 written 0
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|114|0|0|0|2f5f7674695f7076742f73766361636c2e636e66|]
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/services.cnf" flags READ mode 0666
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/service.pwd" flags READ mode 0666
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/services.cnf" bytes read 2 written 0
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|2|0|0|0|2f5f7674695f7076742f73657276696365732e636e66|]
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/service.pwd" bytes read 35 written 0
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|35|0|0|0|2f5f7674695f7076742f736572766963652e707764|]
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/service.lck" flags READ mode 0666
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin sent status No such file
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/service.grp" flags READ mode 0666
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/service.lck" bytes read 0 written 0
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|0|0|0|0|2f5f7674695f7076742f736572766963652e6c636b|]
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/service.cnf" flags READ mode 0666
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/service.grp" bytes read 47 written 0
+Oct 29 15:36:11 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|47|0|0|0|2f5f7674695f7076742f736572766963652e677270|]
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/linkinfo.cnf" flags READ mode 0666
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/service.cnf" bytes read 1258 written 0
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|1258|0|0|0|2f5f7674695f7076742f736572766963652e636e66|]
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/frontpg.lck" flags READ mode 0666
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/linkinfo.cnf" bytes read 647 written 0
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|647|0|0|0|2f5f7674695f7076742f6c696e6b696e666f2e636e66|]
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/frontpg.lck" bytes read 0 written 0
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|0|0|0|0|2f5f7674695f7076742f66726f6e7470672e6c636b|]
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/doctodep.btr" flags READ mode 0666
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/deptodoc.btr" flags READ mode 0666
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/doctodep.btr" bytes read 32076 written 0
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|32076|0|0|0|2f5f7674695f7076742f646f63746f6465702e627472|]
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/deptodoc.btr" bytes read 324 written 0
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|324|0|0|0|2f5f7674695f7076742f646570746f646f632e627472|]
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/bots.cnf" flags READ mode 0666
+Oct 29 15:36:12 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/botinfs.cnf" flags READ mode 0666
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/botinfs.cnf" bytes read 24 written 0
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|24|0|0|0|2f5f7674695f7076742f626f74696e66732e636e66|]
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/bots.cnf" bytes read 24 written 0
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|24|0|0|0|2f5f7674695f7076742f626f74732e636e66|]
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/access.cnf" flags READ mode 0666
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/.roles" flags READ mode 0666
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/access.cnf" bytes read 133 written 0
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|133|0|0|0|2f5f7674695f7076742f6163636573732e636e66|]
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/.roles" bytes read 383 written 0
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|383|0|0|0|2f5f7674695f7076742f2e726f6c6573|]
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin open "/_vti_pvt/.htaccess" flags READ mode 0666
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin open "/_vti_txt/.htaccess" flags READ mode 0666
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin close "/_vti_pvt/.htaccess" bytes read 260 written 0
+Oct 29 15:36:13 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|260|0|0|0|2f5f7674695f7076742f2e6874616363657373|]
+Oct 29 15:36:14 10.71.54.0 u39866512-Caitlin close "/_vti_txt/.htaccess" bytes read 260 written 0
+Oct 29 15:36:14 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|260|0|0|0|2f5f7674695f7478742f2e6874616363657373|]
+Oct 29 15:36:14 10.71.54.0 u39866512-Caitlin open "/gal039866512/index.html" flags READ mode 0666
+Oct 29 15:36:14 10.71.54.0 u39866512-Caitlin open "/gal039866512/_vti_cnf/index.html" flags READ mode 0666
+Oct 29 15:36:14 10.71.54.0 u39866512-Caitlin close "/gal039866512/index.html" bytes read 737 written 0
+Oct 29 15:36:14 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|737|0|0|0|2f67616c3033393836363531322f696e6465782e68746d6c|]
+Oct 29 15:36:14 10.71.54.0 u39866512-Caitlin close "/gal039866512/_vti_cnf/index.html" bytes read 363 written 0
+Oct 29 15:36:14 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|363|0|0|0|2f67616c3033393836363531322f5f7674695f636e662f696e6465782e68746d6c|]
+Oct 29 15:36:14 10.71.54.0 u39866512-Caitlin open "/images/xoom.jpg" flags READ mode 0666
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin open "/images/votivegroup300.jpg" flags READ mode 0666
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin close "/images/xoom.jpg" bytes read 33406 written 0
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|33406|0|0|0|2f696d616765732f786f6f6d2e6a7067|]
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin close "/images/votivegroup300.jpg" bytes read 13960 written 0
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|13960|0|0|0|2f696d616765732f766f7469766567726f75703330302e6a7067|]
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin open "/images/table.jpg" flags READ mode 0666
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin open "/images/store.jpg" flags READ mode 0666
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin close "/images/table.jpg" bytes read 11625 written 0
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|11625|0|0|0|2f696d616765732f7461626c652e6a7067|]
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin open "/images/spacer.gif" flags READ mode 0666
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin close "/images/store.jpg" bytes read 61940 written 0
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|61940|0|0|0|2f696d616765732f73746f72652e6a7067|]
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin open "/images/slide.jpg" flags READ mode 0666
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin close "/images/spacer.gif" bytes read 43 written 0
+Oct 29 15:36:15 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|43|0|0|0|2f696d616765732f7370616365722e676966|]
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin open "/images/room.jpg" flags READ mode 0666
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin close "/images/slide.jpg" bytes read 16672 written 0
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|16672|0|0|0|2f696d616765732f736c6964652e6a7067|]
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin open "/images/purses300.jpg" flags READ mode 0666
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin close "/images/room.jpg" bytes read 32884 written 0
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|32884|0|0|0|2f696d616765732f726f6f6d2e6a7067|]
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin close "/images/purses300.jpg" bytes read 16994 written 0
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|16994|0|0|0|2f696d616765732f7075727365733330302e6a7067|]
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin open "/images/pets300.jpg" flags READ mode 0666
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin open "/images/patio2.jpg" flags READ mode 0666
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin close "/images/pets300.jpg" bytes read 16546 written 0
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|16546|0|0|0|2f696d616765732f706574733330302e6a7067|]
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin close "/images/patio2.jpg" bytes read 39455 written 0
+Oct 29 15:36:16 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|39455|0|0|0|2f696d616765732f706174696f322e6a7067|]
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin open "/images/patio.jpg" flags READ mode 0666
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin open "/images/n80.jpg" flags READ mode 0666
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin close "/images/patio.jpg" bytes read 34509 written 0
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|34509|0|0|0|2f696d616765732f706174696f2e6a7067|]
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin close "/images/n80.jpg" bytes read 23785 written 0
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|23785|0|0|0|2f696d616765732f6e38302e6a7067|]
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin open "/images/mandy.jpg" flags READ mode 0666
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin open "/images/lens.jpg" flags READ mode 0666
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin close "/images/mandy.jpg" bytes read 42544 written 0
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|42544|0|0|0|2f696d616765732f6d616e64792e6a7067|]
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin close "/images/lens.jpg" bytes read 18743 written 0
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|18743|0|0|0|2f696d616765732f6c656e732e6a7067|]
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin open "/images/gifts.jpg" flags READ mode 0666
+Oct 29 15:36:17 10.71.54.0 u39866512-Caitlin open "/images/flowerdummy.jpg" flags READ mode 0666
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin close "/images/flowerdummy.jpg" bytes read 11126 written 0
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|11126|0|0|0|2f696d616765732f666c6f77657264756d6d792e6a7067|]
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin close "/images/gifts.jpg" bytes read 32020 written 0
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|32020|0|0|0|2f696d616765732f67696674732e6a7067|]
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin open "/images/eye.jpg" flags READ mode 0666
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin open "/images/entry.jpg" flags READ mode 0666
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin close "/images/entry.jpg" bytes read 16872 written 0
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|16872|0|0|0|2f696d616765732f656e7472792e6a7067|]
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin close "/images/eye.jpg" bytes read 6541 written 0
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|6541|0|0|0|2f696d616765732f6579652e6a7067|]
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin open "/images/doves3.gif" flags READ mode 0666
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin open "/images/doves2.gif" flags READ mode 0666
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin close "/images/doves2.gif" bytes read 4624 written 0
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|4624|0|0|0|2f696d616765732f646f766573322e676966|]
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin close "/images/doves3.gif" bytes read 2255 written 0
+Oct 29 15:36:18 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|2255|0|0|0|2f696d616765732f646f766573332e676966|]
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin open "/images/dogs300.jpg" flags READ mode 0666
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin open "/images/deeppasture.jpg" flags READ mode 0666
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin close "/images/dogs300.jpg" bytes read 17267 written 0
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|17267|0|0|0|2f696d616765732f646f67733330302e6a7067|]
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin close "/images/deeppasture.jpg" bytes read 37481 written 0
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|37481|0|0|0|2f696d616765732f64656570706173747572652e6a7067|]
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin open "/images/conversion2.jpg" flags READ mode 0666
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin open "/images/conversion1.jpg" flags READ mode 0666
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin close "/images/conversion1.jpg" bytes read 14719 written 0
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|14719|0|0|0|2f696d616765732f636f6e76657273696f6e312e6a7067|]
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin close "/images/conversion2.jpg" bytes read 14792 written 0
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|14792|0|0|0|2f696d616765732f636f6e76657273696f6e322e6a7067|]
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin open "/images/cats300.jpg" flags READ mode 0666
+Oct 29 15:36:19 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_22.gif" flags READ mode 0666
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_22.gif" bytes read 547 written 0
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|547|0|0|0|2f696d616765732f626c756577696c6c6f775f32322e676966|]
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin close "/images/cats300.jpg" bytes read 19049 written 0
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|19049|0|0|0|2f696d616765732f636174733330302e6a7067|]
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_21.gif" flags READ mode 0666
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_20.gif" flags READ mode 0666
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_21.gif" bytes read 601 written 0
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|601|0|0|0|2f696d616765732f626c756577696c6c6f775f32312e676966|]
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_20.gif" bytes read 664 written 0
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|664|0|0|0|2f696d616765732f626c756577696c6c6f775f32302e676966|]
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_19.gif" flags READ mode 0666
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_18.gif" flags READ mode 0666
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_19.gif" bytes read 45 written 0
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|45|0|0|0|2f696d616765732f626c756577696c6c6f775f31392e676966|]
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_18.gif" bytes read 89 written 0
+Oct 29 15:36:20 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|89|0|0|0|2f696d616765732f626c756577696c6c6f775f31382e676966|]
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_17.gif" flags READ mode 0666
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_16.gif" flags READ mode 0666
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_17.gif" bytes read 45 written 0
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|45|0|0|0|2f696d616765732f626c756577696c6c6f775f31372e676966|]
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_16.gif" bytes read 27076 written 0
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|27076|0|0|0|2f696d616765732f626c756577696c6c6f775f31362e676966|]
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_15.gif" flags READ mode 0666
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_14.gif" flags READ mode 0666
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_14.gif" bytes read 88 written 0
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|88|0|0|0|2f696d616765732f626c756577696c6c6f775f31342e676966|]
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_15.gif" bytes read 3946 written 0
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|3946|0|0|0|2f696d616765732f626c756577696c6c6f775f31352e676966|]
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_13.gif" flags READ mode 0666
+Oct 29 15:36:21 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_12.gif" flags READ mode 0666
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_13.gif" bytes read 706 written 0
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|706|0|0|0|2f696d616765732f626c756577696c6c6f775f31332e676966|]
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_12.gif" bytes read 88 written 0
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|88|0|0|0|2f696d616765732f626c756577696c6c6f775f31322e676966|]
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_11.gif" flags READ mode 0666
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_10.gif" flags READ mode 0666
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_11.gif" bytes read 70 written 0
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|70|0|0|0|2f696d616765732f626c756577696c6c6f775f31312e676966|]
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_10.gif" bytes read 45 written 0
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|45|0|0|0|2f696d616765732f626c756577696c6c6f775f31302e676966|]
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_09.gif" flags READ mode 0666
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_08.gif" flags READ mode 0666
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_09.gif" bytes read 89 written 0
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|89|0|0|0|2f696d616765732f626c756577696c6c6f775f30392e676966|]
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_08.gif" bytes read 45 written 0
+Oct 29 15:36:22 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|45|0|0|0|2f696d616765732f626c756577696c6c6f775f30382e676966|]
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_07.gif" flags READ mode 0666
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_06.jpg" flags READ mode 0666
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_07.gif" bytes read 849 written 0
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|849|0|0|0|2f696d616765732f626c756577696c6c6f775f30372e676966|]
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_06.jpg" bytes read 727 written 0
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|727|0|0|0|2f696d616765732f626c756577696c6c6f775f30362e6a7067|]
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_06.gif" flags READ mode 0666
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_05.jpg" flags READ mode 0666
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_06.gif" bytes read 624 written 0
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|624|0|0|0|2f696d616765732f626c756577696c6c6f775f30362e676966|]
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_05.jpg" bytes read 24128 written 0
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|24128|0|0|0|2f696d616765732f626c756577696c6c6f775f30352e6a7067|]
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_05.gif" flags READ mode 0666
+Oct 29 15:36:23 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_04.jpg" flags READ mode 0666
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_05.gif" bytes read 701 written 0
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|701|0|0|0|2f696d616765732f626c756577696c6c6f775f30352e676966|]
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_04.jpg" bytes read 793 written 0
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|793|0|0|0|2f696d616765732f626c756577696c6c6f775f30342e6a7067|]
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_04.gif" flags READ mode 0666
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_03.jpg" flags READ mode 0666
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_04.gif" bytes read 27137 written 0
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|27137|0|0|0|2f696d616765732f626c756577696c6c6f775f30342e676966|]
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_03.jpg" bytes read 25044 written 0
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|25044|0|0|0|2f696d616765732f626c756577696c6c6f775f30332e6a7067|]
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_03.gif" flags READ mode 0666
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_02.jpg" flags READ mode 0666
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_03.gif" bytes read 16602 written 0
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|16602|0|0|0|2f696d616765732f626c756577696c6c6f775f30332e676966|]
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_02.jpg" bytes read 914 written 0
+Oct 29 15:36:24 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|914|0|0|0|2f696d616765732f626c756577696c6c6f775f30322e6a7067|]
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_02.gif" flags READ mode 0666
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_01.jpg" flags READ mode 0666
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_02.gif" bytes read 1026 written 0
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|1026|0|0|0|2f696d616765732f626c756577696c6c6f775f30322e676966|]
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_01.jpg" bytes read 668 written 0
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|668|0|0|0|2f696d616765732f626c756577696c6c6f775f30312e6a7067|]
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin open "/images/bluewillow_01.gif" flags READ mode 0666
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin open "/images/black.gif" flags READ mode 0666
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin close "/images/bluewillow_01.gif" bytes read 763 written 0
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|763|0|0|0|2f696d616765732f626c756577696c6c6f775f30312e676966|]
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin close "/images/black.gif" bytes read 43 written 0
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|43|0|0|0|2f696d616765732f626c61636b2e676966|]
+Oct 29 15:36:25 10.71.54.0 u39866512-Caitlin open "/images/BlueWillow.png" flags READ mode 0666
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/xoom.jpg" flags READ mode 0666
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin close "/images/BlueWillow.png" bytes read 10799 written 0
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|10799|0|0|0|2f696d616765732f426c756557696c6c6f772e706e67|]
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/xoom.jpg" bytes read 302 written 0
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f786f6f6d2e6a7067|]
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/votivegroup300.jpg" flags READ mode 0666
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/table.jpg" flags READ mode 0666
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/votivegroup300.jpg" bytes read 332 written 0
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|332|0|0|0|2f696d616765732f5f7674695f636e662f766f7469766567726f75703330302e6a7067|]
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/table.jpg" bytes read 302 written 0
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f7461626c652e6a7067|]
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/store.jpg" flags READ mode 0666
+Oct 29 15:36:26 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/spacer.gif" flags READ mode 0666
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/spacer.gif" bytes read 384 written 0
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|384|0|0|0|2f696d616765732f5f7674695f636e662f7370616365722e676966|]
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/store.jpg" bytes read 333 written 0
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|333|0|0|0|2f696d616765732f5f7674695f636e662f73746f72652e6a7067|]
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/slide.jpg" flags READ mode 0666
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/room.jpg" flags READ mode 0666
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/room.jpg" bytes read 334 written 0
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|334|0|0|0|2f696d616765732f5f7674695f636e662f726f6f6d2e6a7067|]
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/slide.jpg" bytes read 302 written 0
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f736c6964652e6a7067|]
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/purses300.jpg" flags READ mode 0666
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/pets300.jpg" flags READ mode 0666
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/purses300.jpg" bytes read 332 written 0
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|332|0|0|0|2f696d616765732f5f7674695f636e662f7075727365733330302e6a7067|]
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/pets300.jpg" bytes read 332 written 0
+Oct 29 15:36:27 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|332|0|0|0|2f696d616765732f5f7674695f636e662f706574733330302e6a7067|]
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/patio2.jpg" flags READ mode 0666
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/patio.jpg" flags READ mode 0666
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/patio2.jpg" bytes read 336 written 0
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|336|0|0|0|2f696d616765732f5f7674695f636e662f706174696f322e6a7067|]
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/patio.jpg" bytes read 333 written 0
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|333|0|0|0|2f696d616765732f5f7674695f636e662f706174696f2e6a7067|]
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/n80.jpg" flags READ mode 0666
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/mandy.jpg" flags READ mode 0666
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/n80.jpg" bytes read 302 written 0
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f6e38302e6a7067|]
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/mandy.jpg" bytes read 302 written 0
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f6d616e64792e6a7067|]
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/lens.jpg" flags READ mode 0666
+Oct 29 15:36:28 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/gifts.jpg" flags READ mode 0666
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/gifts.jpg" bytes read 332 written 0
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|332|0|0|0|2f696d616765732f5f7674695f636e662f67696674732e6a7067|]
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/lens.jpg" bytes read 302 written 0
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|302|0|0|0|2f696d616765732f5f7674695f636e662f6c656e732e6a7067|]
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/flowerdummy.jpg" flags READ mode 0666
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/eye.jpg" flags READ mode 0666
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/flowerdummy.jpg" bytes read 302 written 0
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f666c6f77657264756d6d792e6a7067|]
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/eye.jpg" bytes read 300 written 0
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|300|0|0|0|2f696d616765732f5f7674695f636e662f6579652e6a7067|]
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/entry.jpg" flags READ mode 0666
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/doves3.gif" flags READ mode 0666
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/entry.jpg" bytes read 302 written 0
+Oct 29 15:36:29 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f656e7472792e6a7067|]
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/doves3.gif" bytes read 390 written 0
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|390|0|0|0|2f696d616765732f5f7674695f636e662f646f766573332e676966|]
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/doves2.gif" flags READ mode 0666
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/dogs300.jpg" flags READ mode 0666
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/doves2.gif" bytes read 380 written 0
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|380|0|0|0|2f696d616765732f5f7674695f636e662f646f766573322e676966|]
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/dogs300.jpg" bytes read 332 written 0
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|332|0|0|0|2f696d616765732f5f7674695f636e662f646f67733330302e6a7067|]
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/deeppasture.jpg" flags READ mode 0666
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/conversion2.jpg" flags READ mode 0666
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/deeppasture.jpg" bytes read 302 written 0
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f64656570706173747572652e6a7067|]
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/conversion2.jpg" bytes read 302 written 0
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f636f6e76657273696f6e322e6a7067|]
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/conversion1.jpg" flags READ mode 0666
+Oct 29 15:36:30 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/cats300.jpg" flags READ mode 0666
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/conversion1.jpg" bytes read 302 written 0
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|302|0|0|0|2f696d616765732f5f7674695f636e662f636f6e76657273696f6e312e6a7067|]
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/cats300.jpg" bytes read 332 written 0
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|332|0|0|0|2f696d616765732f5f7674695f636e662f636174733330302e6a7067|]
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_22.gif" flags READ mode 0666
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_21.gif" flags READ mode 0666
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_22.gif" bytes read 298 written 0
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f32322e676966|]
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_21.gif" bytes read 298 written 0
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f32312e676966|]
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_20.gif" flags READ mode 0666
+Oct 29 15:36:31 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_19.gif" flags READ mode 0666
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_20.gif" bytes read 298 written 0
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f32302e676966|]
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_19.gif" bytes read 295 written 0
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|295|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31392e676966|]
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_18.gif" flags READ mode 0666
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_17.gif" flags READ mode 0666
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_18.gif" bytes read 297 written 0
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|297|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31382e676966|]
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_17.gif" bytes read 295 written 0
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|295|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31372e676966|]
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_16.gif" flags READ mode 0666
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_15.gif" flags READ mode 0666
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_16.gif" bytes read 381 written 0
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|381|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31362e676966|]
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_15.gif" bytes read 301 written 0
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|301|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31352e676966|]
+Oct 29 15:36:32 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_14.gif" flags READ mode 0666
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_13.gif" flags READ mode 0666
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_14.gif" bytes read 297 written 0
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|297|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31342e676966|]
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_13.gif" bytes read 300 written 0
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|300|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31332e676966|]
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_12.gif" flags READ mode 0666
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_11.gif" flags READ mode 0666
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_12.gif" bytes read 297 written 0
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|297|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31322e676966|]
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_11.gif" bytes read 297 written 0
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|297|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31312e676966|]
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_10.gif" flags READ mode 0666
+Oct 29 15:36:33 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_09.gif" flags READ mode 0666
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_10.gif" bytes read 374 written 0
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|374|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f31302e676966|]
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_09.gif" bytes read 297 written 0
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|297|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30392e676966|]
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_08.gif" flags READ mode 0666
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_07.gif" flags READ mode 0666
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_08.gif" bytes read 374 written 0
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|374|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30382e676966|]
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_07.gif" bytes read 298 written 0
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30372e676966|]
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_06.jpg" flags READ mode 0666
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_06.gif" flags READ mode 0666
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_06.jpg" bytes read 298 written 0
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30362e6a7067|]
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_06.gif" bytes read 298 written 0
+Oct 29 15:36:34 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30362e676966|]
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_05.gif" flags READ mode 0666
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_05.jpg" flags READ mode 0666
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_05.jpg" bytes read 302 written 0
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|302|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30352e6a7067|]
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_05.gif" bytes read 298 written 0
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30352e676966|]
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_04.jpg" flags READ mode 0666
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_04.gif" flags READ mode 0666
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_04.gif" bytes read 381 written 0
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|381|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30342e676966|]
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_04.jpg" bytes read 298 written 0
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30342e6a7067|]
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_03.jpg" flags READ mode 0666
+Oct 29 15:36:35 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_03.gif" flags READ mode 0666
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_03.jpg" bytes read 302 written 0
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|302|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30332e6a7067|]
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_03.gif" bytes read 381 written 0
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|381|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30332e676966|]
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_02.gif" flags READ mode 0666
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_02.jpg" flags READ mode 0666
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_02.jpg" bytes read 298 written 0
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30322e6a7067|]
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_02.gif" bytes read 299 written 0
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|299|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30322e676966|]
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_01.jpg" flags READ mode 0666
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/bluewillow_01.gif" flags READ mode 0666
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_01.jpg" bytes read 298 written 0
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30312e6a7067|]
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/bluewillow_01.gif" bytes read 298 written 0
+Oct 29 15:36:36 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|298|0|0|0|2f696d616765732f5f7674695f636e662f626c756577696c6c6f775f30312e676966|]
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin open "/images/_vti_cnf/black.gif" flags READ mode 0666
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin open "/logs/access.log.43.7.gz" flags READ mode 0666
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin close "/images/_vti_cnf/black.gif" bytes read 336 written 0
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|336|0|0|0|2f696d616765732f5f7674695f636e662f626c61636b2e676966|]
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin close "/logs/access.log.43.7.gz" bytes read 71194 written 0
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|71194|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e372e677a|]
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin open "/logs/mail.log.42.gz" flags READ mode 0666
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin open "/logs/access.log.43.4.gz" flags READ mode 0666
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin close "/logs/mail.log.42.gz" bytes read 1312 written 0
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|1312|0|0|0|2f6c6f67732f6d61696c2e6c6f672e34322e677a|]
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin close "/logs/access.log.43.4.gz" bytes read 68379 written 0
+Oct 29 15:36:37 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|68379|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e342e677a|]
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin open "/logs/access.log.36.gz" flags READ mode 0666
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin open "/logs/mail.log.37.gz" flags READ mode 0666
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin close "/logs/mail.log.37.gz" bytes read 1067 written 0
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|1067|0|0|0|2f6c6f67732f6d61696c2e6c6f672e33372e677a|]
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin close "/logs/access.log.36.gz" bytes read 421492 written 0
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|421492|0|0|0|2f6c6f67732f6163636573732e6c6f672e33362e677a|]
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin open "/logs/access.log.39.gz" flags READ mode 0666
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin open "/logs/access.log.43.2.gz" flags READ mode 0666
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin close "/logs/access.log.43.2.gz" bytes read 55306 written 0
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|55306|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e322e677a|]
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin close "/logs/access.log.39.gz" bytes read 414258 written 0
+Oct 29 15:36:38 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|414258|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e677a|]
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin open "/logs/mail.log.36.gz" flags READ mode 0666
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin open "/logs/access.log.42.gz" flags READ mode 0666
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin close "/logs/mail.log.36.gz" bytes read 760 written 0
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|760|0|0|0|2f6c6f67732f6d61696c2e6c6f672e33362e677a|]
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin close "/logs/access.log.42.gz" bytes read 409318 written 0
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|409318|0|0|0|2f6c6f67732f6163636573732e6c6f672e34322e677a|]
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin open "/logs/dav.log.38.gz" flags READ mode 0666
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin open "/logs/access.log.38.gz" flags READ mode 0666
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin close "/logs/dav.log.38.gz" bytes read 246 written 0
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|246|0|0|0|2f6c6f67732f6461762e6c6f672e33382e677a|]
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin open "/logs/mail.log.39.gz" flags READ mode 0666
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin close "/logs/access.log.38.gz" bytes read 421883 written 0
+Oct 29 15:36:39 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|0|421883|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e677a|]
+Oct 29 15:36:40 10.71.54.0 u39866512-Caitlin open "/logs/sftp.log" flags READ mode 0666
+Oct 29 15:36:40 10.71.54.0 u39866512-Caitlin close "/logs/mail.log.39.gz" bytes read 666 written 0
+Oct 29 15:36:40 10.71.54.0 u39866512-Caitlin [10.71.54.0|get|1|666|0|0|0|2f6c6f67732f6d61696c2e6c6f672e33392e677a|]

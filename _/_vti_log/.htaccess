@@ -1,0 +1,11 @@
+# -FrontPage-
+
+#ptions None
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName bluewillowtucson.com
+AuthUserFile /homepages/34/d155104875/htdocs/_vti_pvt/service.pwd
+AuthGroupFile /homepages/34/d155104875/htdocs/_vti_pvt/service.grp
